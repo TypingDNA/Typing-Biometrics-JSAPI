@@ -1775,3 +1775,5 @@ function TypingDNA() {
     return TypingDNA.instance;
   }
 }
+
+export default { TypingDNA }
